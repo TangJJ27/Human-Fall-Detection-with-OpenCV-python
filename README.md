@@ -13,6 +13,9 @@ To determine fall, the following steps is taken:
 2) Width and length of the rectangle is anaylzed.
     - If width < length, the person is in an upright position.
     - If length > width, the person is in a horizontal position.
+    
+    ![Width Length Detection](https://user-images.githubusercontent.com/113175359/208013926-6be0df8a-7046-4828-a08b-230f2ae02abd.png)
+    
 3) Status of the person:
     - Moving and upright ==> Normal/ Moving
     - Stationary and upright ==> Normal/ Standing
