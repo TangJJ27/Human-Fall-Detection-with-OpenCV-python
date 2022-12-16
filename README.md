@@ -1,7 +1,7 @@
 # Human-Fall-Detection-with-OpenCV-python
 
 ## Introduction
-This project is one of the parts in my uni's integrated design project "Smart Kitchen". This part aimed to detect human falls occur in the kitchen especially for the elders. Kitchen is a place which is wet and slippery. Nowadays, the elders are often left at home alone while other adults went to study or work. There is a risk if the elders fell and no one awares, this may cause them to miss the emergency rescue time and fatal fall happens.
+This project is one of the parts in my uni's integrated design project "Smart Kitchen". Fall Detection in Smart Kitchen aimed to detect human falls occur in the kitchen especially for the elders. Kitchen is a place which is wet and slippery. Nowadays, the elders are often left at home alone while other adults went to study or work. There is a risk if the elders fell and no one awares, this may cause them to miss the emergency rescue time and fatal fall happens. The fall detection system can also be applied in other situation other thann kitchen.
 
 ## Methodology
 OpenCV backgroundSubtractorMOG2 was used to extract the background image. The capturing image is compared with background image to obtain moving contours. The largest contour entering the scene is assumed to be the person entering the scene. The largest contour will be bounded with a rectangle using boundRect function in OpenCV. Activity status of the person can then been analysed with the bounded rectangle. 
