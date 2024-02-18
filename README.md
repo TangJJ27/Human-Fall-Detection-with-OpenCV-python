@@ -1,7 +1,7 @@
 # Human-Fall-Detection-with-OpenCV-python
 
 ## Introduction
-This project is one of the parts in my uni's integrated design project "Smart Kitchen". Fall Detection in Smart Kitchen aimed to detect human falls occur in the kitchen especially for the elders. Kitchen is a place which is wet and slippery. Nowadays, the elders are often left at home alone while other adults went to study or work. There is a risk if the elders fell and no one awares, this may cause them to miss the emergency rescue time and fatal fall happens. The fall detection system can also be applied in other situation other thann kitchen.
+This project is one of the parts in my uni's integrated design project "Smart Kitchen". Fall Detection in Smart Kitchen aimed to detect human falls occur in the kitchen especially for the elders. Kitchen is a place which is wet and slippery. Nowadays, the elders are often left at home alone while other adults went to study or work. There is a risk if the elders fell and no one awares, this may cause them to miss the emergency rescue time and fatal fall happens. The fall detection system can also be applied in other situation other than kitchen.
 
 <img src="https://user-images.githubusercontent.com/113175359/208015000-b49bfe75-47ca-46a0-b0b6-fded65b304d1.png" width="360" />
 
